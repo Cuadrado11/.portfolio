@@ -2,8 +2,8 @@
 
 # Charlie Camarena
 
-Hi! I'm Charlie — a data analyst with a background in mathematical modeling.  
-This is my personal website where I showcase my projects.
+I’m Charlie, a data analyst with experience in statistical modeling and working with real-world datasets to find trends and build predictive tools.
+This is my personal website showcasing my projects.
 
 ## Projects
 
