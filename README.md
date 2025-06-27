@@ -11,7 +11,7 @@ This is my personal website showcasing my projects.
   [View project on GitHub](https://github.com/cuadrado11/PL-Predictor)
 - **MLB OBP DiD Analysis** – Estimated 2023 rule change effects on lefty pull heavy hitters using DiD
   [View project on GitHub](https://github.com/cuadrado11/mlb-obp-did)
-- **Language & Income Study** – Used census data to analyze English proficiency effects
+- **Language & Income Study** – Used census data to analyze English proficiency effects on income
 
 ## Contact
 
