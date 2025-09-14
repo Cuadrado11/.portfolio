@@ -10,7 +10,7 @@ This is my personal website showcasing my projects.
 - **Premier League Betting Model** – Trained logistic regression to predict outcomes and created a betting simulator using my models probabilities comparing them to bookmakers odds
   [View project on GitHub](https://github.com/cuadrado11/PL-Predictor)
 - **US Flight Delay Dashboard** – Built an interactive Tableau dashboard using BTS On-Time Performance data (2023–2024) to analyze airline delays and their associated costs by carrier, and time of year. Designed for exploratory analysis with filters and KPIs for delay.
-  Suggestion:Make full screen
+  Suggestion:Make full screen at bottom of dashboard
   [View interactive dashboard](https://public.tableau.com/app/profile/charlie.camarena/viz/Project_17578932014860/Dashboard1?publish=yes)
 - **Leveraged ETF Anlalysis SPY vs SSO** - Analyzed performance of SPY and SSO over long investment periods accounting for dividends, splits, and fees. Observed results over different time frames and different investment strategies
 [View project on GitHub](https://github.com/cuadrado11/Leveraged_ETF)
